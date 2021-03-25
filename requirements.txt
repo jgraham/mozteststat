@@ -1,0 +1,2 @@
+mozautomation @ git+https://github.com/mozilla/version-control-tools.git@8cf15e5187668bc79309f0ff97927b0089797a5a#subdirectory=pylib/mozautomation
+pygit2==1.5.0

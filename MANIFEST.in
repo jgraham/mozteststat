@@ -1,0 +1,6 @@
+include CODE_OF_CONDUCT.md
+include LICENSE
+include README.md
+
+recursive-exclude * __pycache__
+recursive-exclude * *.py[co]
